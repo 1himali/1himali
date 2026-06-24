@@ -18,6 +18,6 @@
 Thanks for Visiting my GitHub Profile!
 ---
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/1himali/1himali/blob/output/snake.svg">
 </p>
 
